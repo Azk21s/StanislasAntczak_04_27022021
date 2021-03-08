@@ -885,7 +885,7 @@ h4 {
     }
     .bloc {
         padding-left: 0;
-        padding-right: 0;
+        padding-right: auto;
     }
     .bloc-group,
     .bloc-group .bloc {
